@@ -1,0 +1,27 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolinaV2020/tests.git"
+  },
+  "keywords": [
+    "tests",
+    "jest",
+    "react-testing-library"
+  ],
+  "author": "Polina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolinaV2020/tests/issues"
+  },
+  "homepage": "https://github.com/PolinaV2020/tests#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
