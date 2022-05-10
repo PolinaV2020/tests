@@ -22,6 +22,12 @@
   },
   "homepage": "https://github.com/PolinaV2020/tests#readme",
   "devDependencies": {
+    "@types/jest": "^27.5.0",
     "jest": "^28.1.0"
+  },
+  "typeAcquisition": {
+    "include": [
+      "jest"
+    ]
   }
 }
